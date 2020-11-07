@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8csEOsW6v4e8KDv/Zt7jEmlPAUtgsl9rORahfZFmInEBrSttdlcPIK+VL1U8UyKwP88kRAGBr2UQekxBZOl9pg==",
+  "dgSpecHash": "sjYIeorI5kSLPfnLKIxKPJGjWQJS3axs2VTG78GHCe7sfsmF+HbtuVIArUufEI1j+9H56smQYoEZsLId8o2brQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\repos\\Hogwarts-API\\Hogwarts-API\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\repos\\Hogwarts-API\\Hogwarts-API\\Models\\Hogwarts.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

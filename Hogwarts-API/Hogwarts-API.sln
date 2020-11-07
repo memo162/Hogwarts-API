@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts-API", "Hogwarts-API\Hogwarts-API.csproj", "{115DD343-A9C0-4EAD-8521-C5644FF0B3A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hogwarts-API", "Hogwarts-API\Hogwarts-API.csproj", "{115DD343-A9C0-4EAD-8521-C5644FF0B3A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{548780CB-8C36-47E8-9AE8-C333E119097B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hogwarts.Models", "Models\Hogwarts.Models.csproj", "{548780CB-8C36-47E8-9AE8-C333E119097B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hogwarts.Application", "Hogwarts.Application\Hogwarts.Application.csproj", "{83AD07B2-7C84-46FB-BEDC-EEED7E991795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts.Repository", "Hogwart.Repository\Hogwarts.Repository.csproj", "{BCA310AA-3BC8-4F92-9200-87913B914885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts.Service", "Hogwarts.Service\Hogwarts.Service.csproj", "{0E943164-A4DE-46D8-8A2D-223F25CF1DAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{548780CB-8C36-47E8-9AE8-C333E119097B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{548780CB-8C36-47E8-9AE8-C333E119097B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{548780CB-8C36-47E8-9AE8-C333E119097B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AD07B2-7C84-46FB-BEDC-EEED7E991795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AD07B2-7C84-46FB-BEDC-EEED7E991795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AD07B2-7C84-46FB-BEDC-EEED7E991795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AD07B2-7C84-46FB-BEDC-EEED7E991795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA310AA-3BC8-4F92-9200-87913B914885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA310AA-3BC8-4F92-9200-87913B914885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA310AA-3BC8-4F92-9200-87913B914885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA310AA-3BC8-4F92-9200-87913B914885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E943164-A4DE-46D8-8A2D-223F25CF1DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E943164-A4DE-46D8-8A2D-223F25CF1DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E943164-A4DE-46D8-8A2D-223F25CF1DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E943164-A4DE-46D8-8A2D-223F25CF1DAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

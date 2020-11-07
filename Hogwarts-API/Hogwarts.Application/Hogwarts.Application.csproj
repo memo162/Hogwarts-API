@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hogwarts.Service\Hogwarts.Service.csproj" />
+    <ProjectReference Include="..\Models\Hogwarts.Models.csproj" />
+  </ItemGroup>
+
+</Project>

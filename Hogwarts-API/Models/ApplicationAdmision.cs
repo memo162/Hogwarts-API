@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Models
+namespace Hogwarts.Models
 {
     public class ApplicationAdmision : Base
     {

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hogwarts.Service/1.0.0": {
+        "dependencies": {
+          "Hogwarts.Models": "1.0.0",
+          "Hogwarts.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Hogwarts.Service.dll": {}
+        }
+      },
+      "Hogwarts.Models/1.0.0": {
+        "runtime": {
+          "Hogwarts.Models.dll": {}
+        }
+      },
+      "Hogwarts.Repository/1.0.0": {
+        "dependencies": {
+          "Hogwarts.Models": "1.0.0"
+        },
+        "runtime": {
+          "Hogwarts.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hogwarts.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hogwarts.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hogwarts.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

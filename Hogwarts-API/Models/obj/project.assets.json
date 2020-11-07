@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\repos\\Hogwarts-API\\Hogwarts-API\\Models\\Models.csproj",
-      "projectName": "Models",
-      "projectPath": "C:\\Users\\Admin\\Documents\\repos\\Hogwarts-API\\Hogwarts-API\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\repos\\Hogwarts-API\\Hogwarts-API\\Models\\Hogwarts.Models.csproj",
+      "projectName": "Hogwarts.Models",
+      "projectPath": "C:\\Users\\Admin\\Documents\\repos\\Hogwarts-API\\Hogwarts-API\\Models\\Hogwarts.Models.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Documents\\repos\\Hogwarts-API\\Hogwarts-API\\Models\\obj\\",
       "projectStyle": "PackageReference",

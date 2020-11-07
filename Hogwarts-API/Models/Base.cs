@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Models
+namespace Hogwarts.Models
 {
     public class Base
     {
