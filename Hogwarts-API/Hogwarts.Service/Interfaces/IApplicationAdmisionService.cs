@@ -14,8 +14,8 @@ namespace Hogwarts.Service
 
         Task<List<ApplicationAdmision>> Get();
 
-        Task<ApplicationAdmision> Get(Guid Id);
+        Task<ApplicationAdmision> Get(int id);
 
-        Task<bool> Delete(Guid Id);
+        Task<bool> Delete(int id);
     }
 }

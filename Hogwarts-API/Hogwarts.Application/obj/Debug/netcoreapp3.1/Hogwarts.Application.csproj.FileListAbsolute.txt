@@ -1,11 +1,6 @@
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bin\Debug\netcoreapp3.1\Hogwarts.Application.deps.json
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bin\Debug\netcoreapp3.1\Hogwarts.Application.dll
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bin\Debug\netcoreapp3.1\Hogwarts.Application.pdb
-C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.AssemblyInfoInputs.cache
-C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.AssemblyInfo.cs
-C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.dll
-C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.pdb
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bin\Debug\netcoreapp3.1\Hogwarts.Models.dll
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bin\Debug\netcoreapp3.1\Hogwarts.Repository.dll
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bin\Debug\netcoreapp3.1\Hogwarts.Service.dll
@@ -13,4 +8,9 @@ C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bi
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bin\Debug\netcoreapp3.1\Hogwarts.Models.pdb
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\bin\Debug\netcoreapp3.1\Hogwarts.Repository.pdb
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.AssemblyInfo.cs
+C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.csproj.CopyComplete
+C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.dll
+C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts.Application\obj\Debug\netcoreapp3.1\Hogwarts.Application.pdb

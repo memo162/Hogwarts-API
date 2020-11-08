@@ -14,7 +14,7 @@ namespace Hogwart.Repository
             throw new NotImplementedException();
         }
 
-        public Task<bool> Delete(Guid Id)
+        public Task<bool> Delete(int id)
         {
             throw new NotImplementedException();
         }
@@ -24,7 +24,7 @@ namespace Hogwart.Repository
             throw new NotImplementedException();
         }
 
-        public Task<ApplicationAdmision> Get(Guid Id)
+        public Task<ApplicationAdmision> Get(int id)
         {
             throw new NotImplementedException();
         }

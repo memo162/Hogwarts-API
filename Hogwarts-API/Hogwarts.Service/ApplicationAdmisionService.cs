@@ -19,9 +19,9 @@ namespace Hogwarts.Service
             return await _howgartApplicationAdmisionServie.Add(request);
         }
 
-        public async Task<bool> Delete(Guid Id)
+        public async Task<bool> Delete(int id)
         {
-            return await _howgartApplicationAdmisionServie.Delete(Id);
+            return await _howgartApplicationAdmisionServie.Delete(id);
         }
 
         public async Task<List<ApplicationAdmision>> Get()
@@ -29,9 +29,9 @@ namespace Hogwarts.Service
             return await _howgartApplicationAdmisionServie.Get();
         }
 
-        public async Task<ApplicationAdmision> Get(Guid Id)
+        public async Task<ApplicationAdmision> Get(int id)
         {
-            return await _howgartApplicationAdmisionServie.Get(Id);
+            return await _howgartApplicationAdmisionServie.Get(id);
         }
 
         public async Task<bool> Update(ApplicationAdmision request)

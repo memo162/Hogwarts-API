@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Hogwarts.Application.Interfaces
 {
-    interface IApplicationAdmisionApplication
+    public interface IApplicationAdmisionApplication
     {
         Task<bool> Add(ApplicationAdmision request);
 
@@ -15,8 +15,8 @@ namespace Hogwarts.Application.Interfaces
 
         Task<List<ApplicationAdmision>> Get();
 
-        Task<ApplicationAdmision> Get(Guid Id);
+        Task<ApplicationAdmision> Get(int id);
 
-        Task<bool> Delete(Guid Id);
+        Task<bool> Delete(int id);
     }
 }

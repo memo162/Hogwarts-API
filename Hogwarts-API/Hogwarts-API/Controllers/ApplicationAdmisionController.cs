@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Hogwarts.Application.Interfaces;
+using Hogwarts.Models;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -13,21 +15,24 @@ namespace Hogwarts_API.Controllers
     public class ApplicationAdmisionController : ControllerBase
     {
 
-        private readonly 
-        public ApplicationAdmisionController(){}
+        private readonly IApplicationAdmisionApplication _applicationAdmisionApplication; 
+        public ApplicationAdmisionController(IApplicationAdmisionApplication applicationAdmisionApplication) 
+        {
+            _applicationAdmisionApplication = applicationAdmisionApplication;
+        }
 
         // GET: api/<ApplicationAdmisionController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<List<ApplicationAdmision>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return await _applicationAdmisionApplication.Get();
         }
 
         // GET api/<ApplicationAdmisionController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<ApplicationAdmision> Get(int id)
         {
-            return "value";
+            return await _applicationAdmisionApplication.Get(id);
         }
 
         // POST api/<ApplicationAdmisionController>
@@ -44,8 +49,9 @@ namespace Hogwarts_API.Controllers
 
         // DELETE api/<ApplicationAdmisionController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async void Delete(int id)
         {
+            await _applicationAdmisionApplication.Delete(id);
         }
     }
 }

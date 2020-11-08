@@ -6,7 +6,7 @@ namespace Hogwarts.Models
 {
     public class Base
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public DateTime CreationDate { get; set; }
         public DateTime UpdateDate { get; set; }
     }
