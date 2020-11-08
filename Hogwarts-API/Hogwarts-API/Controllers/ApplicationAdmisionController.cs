@@ -12,6 +12,10 @@ namespace Hogwarts_API.Controllers
     [ApiController]
     public class ApplicationAdmisionController : ControllerBase
     {
+
+        private readonly 
+        public ApplicationAdmisionController(){}
+
         // GET: api/<ApplicationAdmisionController>
         [HttpGet]
         public IEnumerable<string> Get()

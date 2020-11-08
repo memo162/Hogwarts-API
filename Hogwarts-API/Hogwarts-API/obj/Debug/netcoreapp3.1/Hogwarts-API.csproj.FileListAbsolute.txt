@@ -17,3 +17,4 @@ C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts-API\obj\Debug\
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts-API\obj\Debug\netcoreapp3.1\Hogwarts-API.dll
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts-API\obj\Debug\netcoreapp3.1\Hogwarts-API.pdb
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts-API\obj\Debug\netcoreapp3.1\Hogwarts-API.genruntimeconfig.cache
+C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Hogwarts-API\obj\Debug\netcoreapp3.1\Hogwarts-API.csprojAssemblyReference.cache

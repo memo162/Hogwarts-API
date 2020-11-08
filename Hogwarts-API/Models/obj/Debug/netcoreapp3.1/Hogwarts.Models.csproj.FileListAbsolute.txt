@@ -6,3 +6,4 @@ C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Models\obj\Debug\netcor
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Models\obj\Debug\netcoreapp3.1\Hogwarts.Models.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Models\obj\Debug\netcoreapp3.1\Hogwarts.Models.dll
 C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Models\obj\Debug\netcoreapp3.1\Hogwarts.Models.pdb
+C:\Users\Admin\Documents\repos\Hogwarts-API\Hogwarts-API\Models\obj\Debug\netcoreapp3.1\Hogwarts.Models.csprojAssemblyReference.cache

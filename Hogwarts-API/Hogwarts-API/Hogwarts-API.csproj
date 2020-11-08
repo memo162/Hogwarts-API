@@ -5,5 +5,9 @@
     <RootNamespace>Hogwarts_API</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hogwarts.Application\Hogwarts.Application.csproj" />
+  </ItemGroup>
+
 
 </Project>
