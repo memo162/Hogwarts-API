@@ -12,7 +12,7 @@ namespace Hogwarts.Application
     {
         private readonly IApplicationAdmisionService _applicationAdmisionService;
 
-        public ApplicationAdmisionApplication(IApplicationAdmisionService applicationAdmisionService) 
+        public ApplicationAdmisionApplication(IApplicationAdmisionService applicationAdmisionService)
         {
             _applicationAdmisionService = applicationAdmisionService;
         }
